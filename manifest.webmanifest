@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "산업환기 속도압·풍속 계산기",
+  "short_name": "속도압 풍속 계산기",
+  "description": "속도압과 풍속을 양방향 계산하고 공기밀도를 보정합니다.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f2f6f8",
+  "theme_color": "#123b55",
+  "lang": "ko",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
