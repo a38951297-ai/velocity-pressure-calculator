@@ -1,5 +1,5 @@
 {
-  "id": "./",
+  "id": "/velocity-pressure-calculator/",
   "name": "산업환기 속도압·풍속 계산기",
   "short_name": "속도압 풍속 계산기",
   "description": "속도압과 풍속을 양방향 계산하고 공기밀도를 보정합니다.",
